@@ -1,0 +1,5 @@
+/auth/node_modules/
+/manager/node_modules/
+/tech_stack/node_modules/
+/.idea/
+/.vscode/
