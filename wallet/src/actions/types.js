@@ -1,0 +1,3 @@
+export const SET_PARAM = 'SET_PARAM';
+export const SHOW_USER_PROFILE = 'SHOW_USER_PROFILE';
+export const SET_USER_PARAMS = 'SET_USER_PARAMS';
